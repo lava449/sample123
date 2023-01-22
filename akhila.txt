@@ -1,2 +1,4 @@
 this is for the study purpose only
 my 2nd commit to the git hub
+updated code for the braches
+
